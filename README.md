@@ -16,8 +16,9 @@ You can easily host this website on several free platforms.
 ### 2. Vercel
 
 1.  Sign up for a free account at [vercel.com](https://vercel.com).
-2.  Drag and drop the folder containing your `index.html` file into the Vercel dashboard.
-3.  Vercel will deploy your site and give you a unique URL.
+2.  https://kpushpa1414.github.io/Portfolio_Pushpa_Kumari/
+3.  Drag and drop the folder containing your `index.html` file into the Vercel dashboard.
+4.  Vercel will deploy your site and give you a unique URL.
 
 ### 3. Netlify
 
